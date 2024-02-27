@@ -1,0 +1,12 @@
+package portalrh.com.portalRH.models;
+
+public enum Escolaridade {
+    FUNDAMENTALCOMPLETO,
+    FUNDAMENTALINCOMPLETO,
+    MEDIOCOMPLETO,
+    MEDIOINCOMPLETO,
+    GRADUACAOCOMPLETO,
+    GRADUACAOINCOMPLETO,
+    POSCOMPLETO,
+    POSINCOMPLETO
+}
